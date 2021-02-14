@@ -1,19 +1,4 @@
 On branch master
+Your branch is up to date with 'origin/master'.
 
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-        new file:   task1/.idea/.gitignore
-        new file:   task1/.idea/codeStyles/Project.xml
-        new file:   task1/.idea/codeStyles/codeStyleConfig.xml
-        new file:   task1/.idea/description.html
-        new file:   task1/.idea/encodings.xml
-        new file:   task1/.idea/misc.xml
-        new file:   task1/.idea/modules.xml
-        new file:   task1/.idea/project-template.xml
-        new file:   task1/.idea/vcs.xml
-        new file:   task1/src/Main.java
-        new file:   task1/status.txt
-        new file:   task1/task1.iml
-
+nothing to commit, working tree clean
