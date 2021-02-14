@@ -1,0 +1,5 @@
+commit bf8c95403c20cc56b7db4fef96fa9cd0a216d62a (HEAD -> master)
+Author: Roman <Rrom4eg3@gmail.com>
+Date:   Sun Feb 14 10:40:08 2021 +0300
+
+    add .gitignore
